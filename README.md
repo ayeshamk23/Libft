@@ -3,7 +3,7 @@
 > _“Build your own standard library – and truly understand the language.”_
 
 
-LIBFT is a personal C library crafted from scratch as part of the **42 Abu Dhabi School** curriculum. The project’s objective was to deepen understanding of core C functionalities by **re-implementing standard functions** and building custom ones. The result? A flexible, portable static library ready to be used in future C projects.
+LIBFT is a personal C library crafted from scratch as part of the 42 Abu Dhabi School curriculum. Completed on 23 November 2023, the project’s objective was to deepen understanding of core C functionalities by re-implementing standard library functions and building custom ones. The result is a flexible, portable static library ready to be reused in future C projects.
 
 📦 **Static Library**  
 ⚙️ **Pure C**  
