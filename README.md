@@ -162,5 +162,9 @@ Completing the LIBFT project was a deep dive into the fundamentals of C programm
 
 ---
 
-These foundations have equipped me with the confidence to build more advanced systems and tackle larger C projects with precision and discipline.
+## ✅ Evaluation Result
 
+Here’s a screenshot of the successful (score: 125%):
+
+![LIBFT Evaluation]
+<img width="1097" alt="Screen Shot 2025-05-11 at 5 36 03 PM" src="https://github.com/user-attachments/assets/0b9053f5-f3bb-460b-88e8-1ef795868ff4" />
